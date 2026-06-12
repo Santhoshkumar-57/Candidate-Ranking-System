@@ -148,8 +148,9 @@ npm run dev
 
 ## Milestones
 
-- [ ] Finalise tech stack and confirm Gemini API as LLM provider
-- [ ] Set up project repo with `backend/` and `frontend/` structure
+- [X] Finalise tech stack and confirm Gemini API as LLM provider
+- [X] Set up project repo with `backend/` and `frontend/` structure
+- [X] Local Embedding & Skill Matching
 - [ ] Build JD parser and resume parser (LLM-powered) — **first milestone**
 - [ ] Implement hybrid scoring engine with configurable weights
 - [ ] Develop React dashboard with radar charts and Blindspot Visualizer
